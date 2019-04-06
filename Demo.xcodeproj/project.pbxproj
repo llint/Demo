@@ -313,7 +313,7 @@
 				3DA74CBA1987678600A9F1D4 /* vector.h */,
 			);
 			name = cal3d;
-			path = "../cal3d-0.11.0/src/cal3d";
+			path = "./cal3d-0.11.0/src/cal3d";
 			sourceTree = "<group>";
 		};
 		3DA74CE2198876C400A9F1D4 /* src */ = {
@@ -333,7 +333,7 @@
 				3DA74CF0198876C400A9F1D4 /* tick.h */,
 			);
 			name = src;
-			path = "../cally-2.11.0/src";
+			path = "./cally-2.11.0/src";
 			sourceTree = "<group>";
 		};
 		3DAD8370199551290087DBB0 /* Distributed */ = {
@@ -344,7 +344,7 @@
 				3DAD8373199551290087DBB0 /* GameEngineSystem.h */,
 			);
 			name = Distributed;
-			path = ../Distributed;
+			path = ./Distributed;
 			sourceTree = "<group>";
 		};
 		3DAD8374199551290087DBB0 /* Netran */ = {
@@ -354,7 +354,7 @@
 				3DAD837A199551290087DBB0 /* Netran.h */,
 			);
 			name = Netran;
-			path = ../Netran;
+			path = ./Netran;
 			sourceTree = "<group>";
 		};
 		3DAD8375199551290087DBB0 /* impl */ = {
@@ -382,7 +382,7 @@
 				3DAD8387199551290087DBB0 /* Variant.h */,
 			);
 			name = Serialization;
-			path = ../Serialization;
+			path = ./Serialization;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -526,7 +526,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					"../cal3d-0.11.0/src",
+					"./cal3d-0.11.0/src",
 				);
 				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
@@ -566,7 +566,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					"../cal3d-0.11.0/src",
+					"./cal3d-0.11.0/src",
 				);
 				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
